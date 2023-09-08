@@ -1,7 +1,7 @@
 ﻿blinker==1.6.2
 click==8.1.7
 colorama==0.4.6
-Flask==2.3.3
+Flask==2.1.1
 Flask-SQLAlchemy==3.0.5
 greenlet==2.0.2
 itsdangerous==2.1.2
